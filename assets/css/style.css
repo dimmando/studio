@@ -42,7 +42,10 @@ h2, h3 {
 }
 
 .h-color {
+  text-align: center;
   color: #e98cb9;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 
 .hidden-heading {
