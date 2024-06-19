@@ -41,6 +41,10 @@ h2, h3 {
   color: #ffffff;
 }
 
+.h-color {
+  color: #e98cb9;
+}
+
 .hidden-heading {
   display: none;
 }
@@ -115,7 +119,7 @@ main {
 /*Button "Book Now!"*/
 
 #button-booking {
-  background-color: rgba(54, 32, 70, .9);
+  background-color: rgba(54, 32, 70, .8);
   position: absolute;
   right: 50px;
   top: 70px;
@@ -179,6 +183,11 @@ color:#ffffff;
 }
 
 /*Footer*/
+
+#static {
+  position: fixed;
+}
+
 #social-networks {
   background-color: #e98cb9;
   text-align: center;
