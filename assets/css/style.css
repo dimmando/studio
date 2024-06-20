@@ -123,8 +123,10 @@ main {
 
 table {
   border: none;
+  border-spacing: 0px;
   display: flex;
   justify-content: center;
+  margin: 10px;
 }
 
 th {
@@ -138,6 +140,9 @@ th {
   color: #362046;
   border: 1px solid #e98cb9;
   border-collapse: collapse;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 
 td {
@@ -145,12 +150,19 @@ td {
   font-style: normal;
   font-weight: 400;
   line-height: 30px;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0px;
   color: #362046;
   border: 1px solid #e98cb9;
   border-collapse: collapse;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.prices-centered {
+  text-align: center;
 }
 
 /*Button "Book Now!"*/
