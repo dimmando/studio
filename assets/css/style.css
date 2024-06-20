@@ -127,14 +127,30 @@ table {
   justify-content: center;
 }
 
+th {
+  font-family: 'dosis', sans-serif;
+  font-weight: bold;
+  font-weight: 600;
+  line-height: 30px;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #362046;
+  border: 1px solid #e98cb9;
+  border-collapse: collapse;
+}
+
 td {
   font-family: 'dosis', sans-serif;
   font-style: normal;
-  font-weight: 600;
-  line-height: 17px;
+  font-weight: 400;
+  line-height: 30px;
   font-size: 1.3rem;
+  text-transform: uppercase;
   letter-spacing: 0px;
   color: #362046;
+  border: 1px solid #e98cb9;
+  border-collapse: collapse;
 }
 
 /*Button "Book Now!"*/
