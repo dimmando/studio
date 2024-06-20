@@ -21,7 +21,7 @@ body {
   display: flex;
   flex-direction: column;
   /*Generic project styles*/
-  color: #3a3a3a;
+  color: #362046;
   font-family: 'dosis', sans-serif;
 }
 
@@ -117,6 +117,24 @@ main {
   /*Make main element take up any surplus space to push footer down*/
   flex: 1 0 auto;
   margin-top: 47px;
+}
+
+/*Table*/
+
+table {
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+
+td {
+  font-family: 'dosis', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 17px;
+  font-size: 1.3rem;
+  letter-spacing: 0px;
+  color: #362046;
 }
 
 /*Button "Book Now!"*/
