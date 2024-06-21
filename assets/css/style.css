@@ -27,9 +27,8 @@ body {
 
 h1 {
   font-family: 'dosis', sans-serif;
-  /*text-transform: uppercase;*/
   letter-spacing: 3px;
-  font-size: 270%;
+  font-size: 240%;
   color: #ffffff;
   text-align: center;
 }
@@ -86,7 +85,7 @@ header a {
 }
 
 .active {
-  border-bottom: 1px solid #362046;
+  border-bottom: 1px solid #ffffff;
 }
 
 /*Navbar styles with dropdown toggle*/
@@ -278,17 +277,18 @@ td {
     column-gap: 0;
   }
 
+}
+
+
+/*Media query for 768px*/
+@media screen and (min-width: 768px) {
+
   /*Formatting menu text*/
   nav>ul>li {
     padding-top: 17px;
     padding-left: 5px;
     padding-right: 5px;
   }
-
-}
-
-/*Media query for 768px*/
-@media screen and (min-width: 768px) {
 
   /*Gallery*/
   #photos {
@@ -297,6 +297,7 @@ td {
   }
 
   /*Header*/
+
   nav {
     display: block;
     position: relative;
@@ -310,7 +311,7 @@ td {
   }
 
   #menu a:hover {
-    border-bottom: 1px solid #362046;
+    border-bottom: 1px solid #ffffff;
   }
 
   #menu>li {
@@ -322,7 +323,7 @@ td {
   }
 
   #logo {
-    font-size: 200%;
+    font-size: 240%;
     line-height: 25px;
     margin: 0 1rem;
   }
