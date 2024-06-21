@@ -401,16 +401,16 @@ main {
 
 
 #signup {
-  background-image: url("../images/signup-image.webp");
+  background-image: url("../images/bg-palms.jpg");
   background-size: cover;
   background-position: 75%;
-  padding: 20px 10% 0 10%;
+  back padding: 20px 10% 0 10%;
   flex-grow: 1;
 }
 
 #signup-form {
   color: #ffffff;
-  background-color: rgba(60, 60, 60, 0.6);
+  background-color: rgba(54, 32, 70, .4);
   padding: 30px;
 }
 
