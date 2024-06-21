@@ -233,6 +233,8 @@ td {
 }
 
 /*Gallery page*/
+
+
 #photos img {
   max-width: 300px;
   max-height: 300px;
@@ -248,10 +250,6 @@ td {
 }
 
 /*Footer*/
-
-#static {
-  position: fixed;
-}
 
 #social-networks {
   background-color: #e98cb9;
