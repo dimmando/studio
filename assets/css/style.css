@@ -234,12 +234,17 @@ td {
 
 /*Gallery page*/
 #photos img {
+  max-width: 300px;
+  max-height: 300px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  box-shadow: 8px 8px 16px rgba(0, 0, 0, .9);
   width: 100%;
-  line-height: 1em;
+  line-height: 3em;
 }
 
 #photos {
-  line-height: 0;
+  line-height: 60px;
 }
 
 /*Footer*/
