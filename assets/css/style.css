@@ -200,6 +200,7 @@ td {
   color: #e98cb9;
 }
 
+
 /*Girls*/
 #cover-text {
   width: 300px;
@@ -258,6 +259,12 @@ td {
   font-size: 160%;
   padding: 5%;
   color: #362046;
+}
+
+#social-networks i:hover {
+  font-size: 160%;
+  padding: 5%;
+  color: #ffffff;
 }
 
 /*Media query: large or landscape phones 576px and up*/
