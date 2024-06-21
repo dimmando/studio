@@ -234,7 +234,10 @@ td {
 
 /*Gallery page*/
 
-
+#gallery {
+  position: relative;
+  align-items: center;
+}
 
 #photos img {
   max-width: 300px;
@@ -336,7 +339,7 @@ td {
   /*Main content*/
   main {
     /*Push main content down due to higher screen size*/
-    margin-top: 79px;
+    margin-top: 80px;
   }
 
   #signup {
