@@ -292,7 +292,7 @@ td {
 
   /*Gallery*/
   #photos {
-    column-count: 3;
+    column-count: 2;
     column-gap: 0;
   }
 
@@ -364,7 +364,7 @@ td {
 
   /*Gallery*/
   #photos {
-    column-count: 4;
+    column-count: 3;
     column-gap: 0;
   }
 
@@ -372,31 +372,12 @@ td {
 
 @media screen and (min-width: 1200px) {
 
-  /* Reasons section */
-  #benefits {
-    display: flex;
-    flex-direction: row;
+  /*Gallery*/
+  #photos {
+    column-count: 4;
+    column-gap: 0;
   }
 
-  #benefits>div {
-    flex: 1;
-  }
-
-  #benefits-image {
-    order: 0
-  }
-
-  #benefits-mental {
-    order: 1;
-  }
-
-  #benefits-mental>div {
-    align-self: flex-start;
-  }
-
-  #benefits-physical>div {
-    align-self: flex-end;
-  }
 }
 
 
