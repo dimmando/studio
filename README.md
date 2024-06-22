@@ -4,9 +4,10 @@
 
 # *Sugar-Wax Beauty Studio*
 
-The Sugar-Wax Beauty Studio website allows people to learn about the company "Sugar-Wax Beauty Studio" and find information about animals living in this shelter. The visitors of the website could quickly contact the company about adopting animals as well as making a donation.
+The Sugar-Wax Beauty Studio website is the online-representative of the beauty saloon which provides different services for women:
+Waxing, Sugaring, lashes and brows beautyfication, nail manicure. The website visitors can quickly find the Sugar-Wax Beauty Studio prices, location, contact phone and book a time visit to it. Also they can see how the Sugar-Wax Beauty Studio looks like inside and outside.
 
-The site can be accessed by this [link](https://iuliiakonovalova.github.io/animal_shelter/)
+The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 ![Responsive Mockup](documentation/responsive.png)
 
