@@ -45,7 +45,7 @@ h3 {
   color: #e98cb9;
   letter-spacing: 2px;
   text-transform: uppercase;
-  padding-top: 2em;
+  padding-top: 1.9em;
 }
 
 .hidden-heading {
@@ -244,7 +244,7 @@ td {
 
 .center-photos {
   width: 100%;
-  background-color: aqua;
+  background-color: #ffffff;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -264,7 +264,7 @@ td {
 
 #photos {
   line-height: 60px;
-  padding: 30px;
+  padding: 20px;
 }
 
 /*Footer*/
