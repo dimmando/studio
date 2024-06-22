@@ -51,13 +51,14 @@
                 <label for="first-name">Your Name</label>
                 <input type="text" name="first_name" id="first-name" class="text-input" required>
                 <br>
-                <label for="email-address">Email Address</label>
-                <input type="email" name="email_address" id="email-address" class="text-input" required>
+                <label for="telNo">Phone Number (in the form XXX-XXXXXXX)</label>
+                <input type="tel" name="tel_number" id="telNo" class="text-input" placeholder="123-4567890"
+                    pattern="[0-9]{3}-[0-9]{7}" maxlength="11" required>
                 <br>
                 <div class="date">
                     <div>
                         <label for="date">Choose your preferred day: </label>
-                        <input type="date" name="running_preference" id="date" value="date" required>
+                        <input type="date" name="preferred_date" id="date" value="date" required>
                     </div>
                 </div>
                 <button type="submit" class="button">Book Now!</button>
