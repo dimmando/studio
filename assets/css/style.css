@@ -236,6 +236,19 @@ td {
 #gallery {
   justify-content: center;
   align-self: center;
+  width: 100%;
+  display: flex;
+  background-color: #ffffff;
+  align-items: center;
+}
+
+.center-photos {
+  width: 100%;
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 #photos img {
@@ -250,6 +263,7 @@ td {
 
 #photos {
   line-height: 60px;
+  padding: 30px;
 }
 
 /*Footer*/
