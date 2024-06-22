@@ -21,7 +21,7 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 * As a First Time Visitor, I want to be able easily navigate through the website, so I can find the content required.
 * As a First Time Visitor, I want to see the prices to compare it with the other competitors.
 
-### Returning VisitorGoals:
+### Returning Visitor Goals:
 
 * As a Returning Visitor, I want to see how the Beauty Studio looks like, so I can make a final choice where to get services.
 * As a Returning Visitor, I want to see phone number to ask for some details, so that I can easily find it.
