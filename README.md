@@ -2,13 +2,13 @@
 
 ---
 
-# *Animal Shelter*
+# *Sugar-Wax Beauty Studio*
 
-The Animal Shelter website allows people to learn about the company "Animal Shelter" and find information about animals living in this shelter. The visitors of the website could quickly contact the company about adopting animals as well as making a donation.
+The Sugar-Wax Beauty Studio website allows people to learn about the company "Sugar-Wax Beauty Studio" and find information about animals living in this shelter. The visitors of the website could quickly contact the company about adopting animals as well as making a donation.
 
 The site can be accessed by this [link](https://iuliiakonovalova.github.io/animal_shelter/)
 
-![Responsive Mockup](documentation/responsive_mockup.png)
+![Responsive Mockup](documentation/responsive.png)
 
 
 ---
@@ -39,8 +39,8 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
     - Positioned at the top of the page.
     - Contains logo of the company on the left side.
     - Contains navigation links on the right side:
-        * HOME - leads to the home page where users can learn about the company Animal Shelter.
-        * GALLERY - leads to the gallery page where users can see available animals in the Animal Shelter.
+        * HOME - leads to the home page where users can learn about the company Sugar-Wax Beauty Studio.
+        * GALLERY - leads to the gallery page where users can see available animals in the Sugar-Wax Beauty Studio.
         * CONTACT - leads to the contact form page where users can fill out the form in order to get in touch with the company.
     - The links have animated hover effect.
     - The navigation is clear and easy to understand for the user.
@@ -94,7 +94,7 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
 
     - Highlight Section has 4 cards with strong descriptive characteristics of the company.
 
-    - Tells website visitors how well animals are in the Animal Shelter.
+    - Tells website visitors how well animals are in the Sugar-Wax Beauty Studio.
 
     - Attracts viewers to use this company for animal adoption.
 
@@ -109,7 +109,7 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
 
     - Each card has a picture of an animal with its owner.
 
-    - Each card has a story from the people who had an experience of using the Animal Shelter.
+    - Each card has a story from the people who had an experience of using the Sugar-Wax Beauty Studio.
 
     - Each card has a name of the pet's owner.
 
@@ -141,7 +141,7 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
 
     - It has a button right after the introduction message that leads to the contact form page.
 
-    - It has photos of the animals that a present in the Animal Shelter in real-time.
+    - It has photos of the animals that a present in the Sugar-Wax Beauty Studio in real-time.
 
         - The gallery is responsive: the size of the photo depends on the user's screen.
         - Each image has a description of the animal that appears on hover.
@@ -208,7 +208,7 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
 
 ![Color pallet](documentation/color_pallet.png)
 
-- Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Animal Shelter".
+- Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Sugar-Wax Beauty Studio".
 
 - Light Blue Color was used as a background color since this color creates a sense of tranquility and makes a connection between animal's ownership and peacefulness.
 
@@ -222,7 +222,7 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
 
 ![Accent Font](documentation/accent_font.png)
 
-- Lobster Google Font was used to attract viewers' attention to the company's logo, to make an accent on the strong points of the company, and to incentivize visitors to contact "Animal Shelter".
+- Lobster Google Font was used to attract viewers' attention to the company's logo, to make an accent on the strong points of the company, and to incentivize visitors to contact "Sugar-Wax Beauty Studio".
 
 
 ### Wireframes
