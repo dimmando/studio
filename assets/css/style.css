@@ -234,8 +234,8 @@ td {
 /*Gallery page*/
 
 #gallery {
-  align-content: center;
-  align-self: auto;
+  justify-content: center;
+  align-self: center;
 }
 
 #photos img {
