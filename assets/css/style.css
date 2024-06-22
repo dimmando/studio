@@ -399,6 +399,7 @@ main {
   flex-direction: column;
 }
 
+/*Form for booking an appointment*/
 
 #signup {
   background-image: url("../images/bg-palms.jpg");
@@ -439,6 +440,8 @@ main {
   display: flex;
   justify-content: space-between;
 }
+
+/*Submit button*/
 
 .button {
   margin-top: 20px;
