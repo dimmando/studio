@@ -1,4 +1,4 @@
-![Animal Shelter logo](documentation/animal_shelter_logo.png)
+![Sugar-Wax Beauty Studio Logo](documentation/sugarwax-logo.png)
 
 ---
 
