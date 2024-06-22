@@ -24,12 +24,12 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 ### Returning Visitor Goals:
 
 * As a Returning Visitor, I want to see how the Beauty Studio looks like, so I can make a final choice where to get services.
-* As a Returning Visitor, I want to see phone number to ask for some details, so that I can easily find it.
+* As a Returning Visitor, I want to see phone number to ask for some details, so that I can easily contact with them directly.
 * As a Returning Visitor, I want to see if location close to me, so that I can read the address and see the Google Map.
 * As a Returning Visitor, I want to find a way how to book an appointment with the specialist in the Beauty Studio, so that I can plan it.
 
 ### Frequent Visitor Goals:
-* As a Frequent User, I want to have easy way for booking a visit time, so that I can do it quickly.
+* As a Frequent User, I want to have easy way for frequently booking a visiting time, so that I can do it quickly.
 * As a Frequent User, I want to see prices always on top to see if they didn't change. 
 
 ## Features
