@@ -17,9 +17,9 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 ### First Time Visitor Goals:
 
-* As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
-* As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
-* As a First Time Visitor, I want to see the testimonials, so I can see whether the organization is trustworthy.
+* As a First Time Visitor, I want to easily understand the main purpose of the site and also if I have reached to the needed place for me. So I can read about type of organization and services provided immediately in the center of the screen.
+* As a First Time Visitor, I want to be able easily navigate through the website, so I can find the content required.
+* As a First Time Visitor, I want to see the prices to compare it with the other competitors.
 
 ### Returning VisitorGoals:
 
