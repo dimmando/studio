@@ -29,7 +29,7 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 * As a Returning Visitor, I want to find a way how to book an appointment with the specialist in the Beauty Studio, so that I can plan it.
 
 ### Frequent Visitor Goals:
-* As a Frequent User, I want to have easy way for frequently booking a visiting time, so that I can do it quickly.
+* As a Frequent User, I want to have easy way for frequently booking a visiting time, so that I can do it quickly with minimum clicks.
 * As a Frequent User, I want to see prices always on top to see if they didn't change. 
 
 ## Features
