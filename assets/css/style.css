@@ -260,6 +260,7 @@ td {
   box-shadow: 8px 8px 16px rgba(0, 0, 0, .9);
   width: 100%;
   line-height: 3em;
+  margin: 20px;
 }
 
 #photos {
