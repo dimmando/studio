@@ -23,14 +23,14 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 ### Returning VisitorGoals:
 
-* As a Returning Visitor, I want to see various pets, so that I can pick from.
-* As a Returning Visitor, I want to see information about animals, so that I can learn about each animal and make a prudent decision.
-* As a Returning Visitor, I want to find a way to get in contact with the organization, so that I can ask additional questions or send a request about a particular animal.
-* As a Returning Visitor, I want to find community links, so that I can learn more about the organization.
+* As a Returning Visitor, I want to see how the Beauty Studio looks like, so I can make a final choice where to get services.
+* As a Returning Visitor, I want to see phone number to ask for some details, so that I can easily find it.
+* As a Returning Visitor, I want to see if location close to me, so that I can read the address and see the Google Map.
+* As a Returning Visitor, I want to find a way how to book an appointment with the specialist in the Beauty Studio, so that I can plan it.
 
 ### Frequent Visitor Goals:
-* As a Frequent User, I want to check whether there are any changes with available animals, so I can make a choice which animal to adopt.
-* As a Frequent User, I want to have options for the reason to contact the company, so I can get an explicit answer to my email. 
+* As a Frequent User, I want to have easy way for booking a visit time, so that I can do it quickly.
+* As a Frequent User, I want to see prices always on top to see if they didn't change. 
 
 ## Features
 
