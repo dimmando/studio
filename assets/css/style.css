@@ -351,7 +351,7 @@ td {
     max-width: 400px;
     position: absolute;
     left: 10%;
-    top: 80px;
+    top: 30px;
   }
 
   .text-input:hover {
@@ -413,6 +413,7 @@ main {
   color: #ffffff;
   background-color: rgba(54, 32, 70, .4);
   padding: 30px;
+  margin-top: 30px;
 }
 
 #signup-form>h2 {
