@@ -66,8 +66,11 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
         * Services provided by Sugar-Wax Beauty Studio.
         * Prices on services.
         * Contact information with opening hours and Google Map fragment insertion.
-
+        * It has a footer that contains social media links that open in a new tab.
+​
     ![Home Page](documentation/home_page.png)
+---
+    ![Footer](documentation/footer.png)
 
 ---
 
@@ -82,7 +85,8 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
     - The page is responsive on all common screen sizes.
     - The submit button leads to the response page.
-​
+ ​   - It has a footer identical to the home page's footer.
+ 
     ![Contact page](documentation/booking.png)
 
 ---
@@ -90,35 +94,19 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 + ### Response page
     - Response page appears after submitting the booking form.
     - It contains the thank you message and the promise to get in touch with the customer.
+    - It has a footer identical to the home page's footer.
 
     ![Response page](documentation/response_page.png)
 ​
 ---
+
 + ### Our studio page
 
-    - Gallery page has a hero image and an introduction message for the visitors that contains an incentive to contact the company.
-
-    - It has a button right after the introduction message that leads to the contact form page.
-
-    - It has photos of the animals that a present in the Sugar-Wax Beauty Studio in real-time.
-
-        - The gallery is responsive: the size of the photo depends on the user's screen.
-        - Each image has a description of the animal that appears on hover.
-        - description information contains the name of the animal and its characteristics.
-
-    - It has a call to action section below the gallery with the incentivizing message and the button that leads to the contact form.
-
+    - Our studio page has a list of Sugar-Wax Beauty Studio photos inside and outside for the visitors who wants to see how it looks like.
+    - The gallery of photos is responsive: the photos aligned depends on the user's screen.
     - It has a footer identical to the home page's footer.
-    
-​
+    ​
     ![Tour page](documentation/gallery_page.png)
-
-+ #### Footer
-
-    - Footer of each pages contains social media links that open in a new tab.
-​
-    ![Footer](documentation/footer.png)
-
 
 ---
 ## Technologies Used
