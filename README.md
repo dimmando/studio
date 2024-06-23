@@ -24,13 +24,13 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 ### Returning Visitor Goals:
 
 * As a Returning Visitor, I want to see how the Beauty Studio looks like, so I can make a final choice where to get services.
-* As a Returning Visitor, I want to see phone number to ask for some details, so that I can easily contact with them directly.
+* As a Returning Visitor, I want to see phone number and opening hours to ask for some details, so that I can easily contact with them directly.
 * As a Returning Visitor, I want to see if location close to me, so that I can read the address and see the Google Map.
 * As a Returning Visitor, I want to find a way how to book an appointment with the specialist in the Beauty Studio, so that I can plan it.
 
 ### Frequent Visitor Goals:
 * As a Frequent User, I want to have easy way for frequently booking a visiting time, so that I can do it quickly with minimum clicks.
-* As a Frequent User, I want to see prices always on top to see if they didn't change. 
+* As a Frequent User, I want to see prices always on top to see if they have not changed. 
 
 ## Features
 
@@ -41,9 +41,10 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
     - Contains image logo of the Beauty Studio on the left side.
     - Contains text logo/name as type of business, Beauty Studio, in the center.
     - Contains navigation links on the right side:
-        * HOME - leads to the home page where users can learn about the company Sugar-Wax Beauty Studio.
-        * GALLERY - leads to the gallery page where users can see available animals in the Sugar-Wax Beauty Studio.
-        * CONTACT - leads to the contact form page where users can fill out the form in order to get in touch with the company.
+        * HOME - leads to the home page where users can see main information from Sugar-Wax Beauty Studio and quick link in form button "BOOK NOW!" to book an appointment page for frequent users.
+        * BOOKING - link to book an appointment page as the main way to obtain services from Sugar-Wax Beauty Studio.
+        * OUR STUDIO - leads to the gallery page where users can see how Sugar-Wax Beauty Studio looks like.
+        * CONTACTS - leads to the contact information and opening hours info back to the home page but scrolled down to easily find the contact information at any time of navigation.
     - The links have animated hover effect.
     - The navigation is clear and easy to understand for the user.
     ![NavBar desktop](documentation/navbar_desktop.png)
