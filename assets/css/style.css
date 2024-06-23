@@ -45,11 +45,7 @@ h3 {
   color: #e98cb9;
   letter-spacing: 2px;
   text-transform: uppercase;
-  padding-top: 1.9em;
-}
-
-.hidden-heading {
-  display: none;
+  padding-top: 1.7em;
 }
 
 /*Header*/
@@ -159,6 +155,11 @@ td {
   border-top: none;
   border-left: none;
   border-right: none;
+}
+
+.hours {
+  padding-right: 40px;
+  justify-content: left ;
 }
 
 /*Styling prices*/
