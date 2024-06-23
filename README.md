@@ -146,18 +146,18 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 #### Mobile devices
 
-- [Home Page. Mobile Screen](documentation/mobile_home_page.png)
-- [Gallery Page. Mobile Screen](documentation/mobile_gallery_page.png)
-- [Contact Page. Mobile Screen](documentation/mobile_contact_form_page.png)
-- [Response Page. Mobile Screen](documentation/mobile_response_page.png)
+- [Home Page. Mobile Screen](documentation/mobile_home_page.jpg)
+- [Gallery Page. Mobile Screen](documentation/mobile_gallery_page.jpg)
+- [Contact Page. Mobile Screen](documentation/mobile_booking_page.jpg)
+- [Response Page. Mobile Screen](documentation/mobile_response_page.jpg)
 
 
 #### Tablets/Desktop
 
-- [Home Page. Tablet/Desktop Screen](documentation/tablet_home_page.png)
-- [Gallery Page. Tablet/Desktop Screen](documentation/tablet_gallery_page.png)
-- [Contact Page. Tablet/Desktop Screen](documentation/tablet_contact_form_page.png)
-- [Response Page. Tablet/Desktop Screen](documentation/tablet_response_page.png)
+- [Home Page. Tablet/Desktop Screen](documentation/tablet_home_page.jpg)
+- [Gallery Page. Tablet/Desktop Screen](documentation/tablet_gallery_page.jpg)
+- [Contact Page. Tablet/Desktop Screen](documentation/tablet_booking_page.jpg)
+- [Response Page. Tablet/Desktop Screen](documentation/tablet_response_page.jpg)
 
 ---
 
