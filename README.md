@@ -108,27 +108,24 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
     ​
     ![Tour page](documentation/gallery_page.png)
 
++ ### Contacts page
+
+    - Contacts page leads to Sugar-Wax Beauty Studio main page        photos inside and outside for the visitors who wants to see how it looks like.
+    - The gallery of photos is responsive: the photos aligned depends on the user's screen.
+    - It has a footer identical to the home page's footer.
+    ​
+    ![Tour page](documentation/g.png)
+
 ---
 ## Technologies Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
-- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
-- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make "gallery" and "contact" pages responsive.
-- [CSS roots](https://developer.mozilla.org/en-US/docs/Web/CSS/:root) was used to declaring global CSS variables and apply them throughout the project. 
-- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
-- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
-- [Git](https://git-scm.com/) was used for the version control of the website.
-- [GitHub](https://github.com/) was used to host the code of the website.
-- [GIMP](https://www.gimp.org/) was used to make and resize images for the README file.
-
 
 ---
 ## Design
 
 ### Color Scheme
-
-![Color pallet](documentation/color_pallet.png)
 
 - Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Sugar-Wax Beauty Studio".
 
@@ -140,12 +137,7 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 ![Main Font](documentation/primary_font.png)
 
-- Lato Google Font was used as the main font of the website in order to increase readability of the content on the pages.
-
-![Accent Font](documentation/accent_font.png)
-
-- Lobster Google Font was used to attract viewers' attention to the company's logo, to make an accent on the strong points of the company, and to incentivize visitors to contact "Sugar-Wax Beauty Studio".
-
+- Dosis Google Font was used as the main font of the website in order to increase readability and beautyfication of the content on the pages.
 
 ### Wireframes
 
