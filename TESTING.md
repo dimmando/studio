@@ -99,18 +99,10 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     ![Response Page HTML Validator](documentation/w3_validator_response_page.png)
     
 + ### CSS
-  No errors or warnings were found when passing through the official W3C (Jigsaw) validator except:
-    
-    - 3 errors regarding *all: unset*: "Property all doesn't exist. The closest matching property name is fill : unset".
-
-    - Even though this error is present, I don't believe it is 100% accurate, and more information can be found [here](https://developer.mozilla.org/en-US/docs/Web/CSS/all)
+  No errors or warnings were found when passing through the official W3C (Jigsaw) validator
 
   ![CSS Validator errors](documentation/w3_validator_css_errors.png)
   
-    - 43 warning regarding the use of *:root variables*: "Due to their dynamic nature, CSS variables are currently not statically checked".
-    
-  ![CSS Validator errors](documentation/w3_validator_css_warnings.png)
-
 
 + ## LightHouse report
 
