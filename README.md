@@ -69,8 +69,6 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
         * It has a footer that contains social media links that open in a new tab.
 ​
     ![Home Page](documentation/home_page.png)
----
-    ![Footer](documentation/footer.png)
 
 ---
 
@@ -81,13 +79,13 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
         - All text input fields are customized.
         - Labels are animated when the input field is in focus.
         - All inputs are set to be required to fill out.
-        - The submit button is animated on hover.
+        - The submit/Book Now! button is animated on hover.
 
     - The page is responsive on all common screen sizes.
-    - The submit button leads to the response page.
+    - The submit/Book Now! button leads to the response page.
  ​   - It has a footer identical to the home page's footer.
  
-    ![Contact page](documentation/booking.png)
+    ![Booking page](documentation/booking.png)
 
 ---
 
@@ -106,15 +104,15 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
     - The gallery of photos is responsive: the photos aligned depends on the user's screen.
     - It has a footer identical to the home page's footer.
     ​
-    ![Tour page](documentation/gallery_page.png)
+    ![Tour page](documentation/our-studio.png)
 
 + ### Contacts page
 
-    - Contacts page leads to Sugar-Wax Beauty Studio main page        photos inside and outside for the visitors who wants to see how it looks like.
-    - The gallery of photos is responsive: the photos aligned depends on the user's screen.
-    - It has a footer identical to the home page's footer.
+    - It's not an independant page but Contacts page leads to scrolled down Sugar-Wax Beauty Studio main page so users can quick find contact information even though they didn't scroll down the main page before and didn't notice that information.
+    - It includes location address, phone number, opening hours information.
+    - It includes also Google Map insertion so users can open it and navigate at once.
     ​
-    ![Tour page](documentation/g.png)
+    ![Tour page](documentation/contacts-page.png)
 
 ---
 ## Technologies Used
