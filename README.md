@@ -125,11 +125,7 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 ### Color Scheme
 
-- Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Sugar-Wax Beauty Studio".
-
-- Light Blue Color was used as a background color since this color creates a sense of tranquility and makes a connection between animal's ownership and peacefulness.
-
-- Purple color was used to make an emphasis on the logo and leave a memorable effect on the website visitors.
+- Tender colors of Sugar-Wax Beauty Studio website were provided by my wife - main future business customer.
 
 ### Typography
 
@@ -147,7 +143,7 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 - [Response Page. Mobile Screen](documentation/mobile_response_page.png)
 
 
-#### Tablets
+#### Tablets/
 
 - [Home Page. Tablet Screen](documentation/tablet_home_page.png)
 - [Gallery Page. Tablet Screen](documentation/tablet_gallery_page.png)
