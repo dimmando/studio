@@ -71,67 +71,30 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 ---
 
-+ #### Hero Section
++ ### Booking page
 
-    - Hero section have a fixed background image.
+    - Booking page has a form to book an appointment:
 
-    - Hero section have the block section below the image that consist:
+        - All text input fields are customized.
+        - Labels are animated when the input field is in focus.
+        - All inputs are set to be required to fill out.
+        - The submit button is animated on hover.
 
-        * The name of the company.
-        * Short description of the company's philosophy.
-        * Contact button that leads directly to the contact page.
-
-    
-    ![Hero Section](documentation/hero_section.png)
-
---- 
-
-+ #### Highlights Section
-
-    - Highlight Section has 4 cards with strong descriptive characteristics of the company.
-
-    - Tells website visitors how well animals are in the Sugar-Wax Beauty Studio.
-
-    - Attracts viewers to use this company for animal adoption.
-
-    
-    ![Highlights Section](documentation/main_cons.png)
-
-
-    ---
-+ #### Testimonials Section
-
-    - Testimonials Section has three feedbacks from people who were satisfied with the company's service.
-
-    - Each card has a picture of an animal with its owner.
-
-    - Each card has a story from the people who had an experience of using the Sugar-Wax Beauty Studio.
-
-    - Each card has a name of the pet's owner.
-
+    - The page is responsive on all common screen sizes.
+    - The submit button leads to the response page.
 ​
-    ![Testimonials Section](documentation/testimonials.png)
-
+    ![Contact page](documentation/booking.png)
 
 ---
-+ #### Call to Action Section
 
-    - Call to Action Section has an explicit message for the visitors of the website to contact the company.
++ ### Response page
+    - Response page appears after submitting the booking form.
+    - It contains the thank you message and the promise to get in touch with the customer.
 
-    - Is also has a button that directs to the contact page.
-​
-    ![Call to Action Section](documentation/call_to_action.png)
-
-
----
-+ #### Footer
-
-    - Footer contains social media links that open in a new tab.
-​
-    ![Footer](documentation/footer.png)
+    ![Response page](documentation/response_page.png)
 ​
 ---
-+ ### Gallery Page
++ ### Our studio page
 
     - Gallery page has a hero image and an introduction message for the visitors that contains an incentive to contact the company.
 
@@ -150,37 +113,12 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 ​
     ![Tour page](documentation/gallery_page.png)
 
++ #### Footer
 
----
-+ ### Contact page
-
-    - Contact page has a contact form:
-
-        - All text input fields are customized.
-        - Labels are animated when the input field is in focus and are not empty.
-        - All inputs are set to be required to fill out.
-        - It has to checkboxes for the visitors to fill voluntary:
-
-            - The 1st is - ADAPT, which helps the company to understand the motive of the visitor.
-            - The 2nd is - DONATE, which motivates users to consider financial support for the company. 
-
-        - The submit button is animated on hover.
-
-    - The page is responsive on all common screen sizes.
-
-    - The submit button leads to the response page.
+    - Footer of each pages contains social media links that open in a new tab.
 ​
-    ![Contact page](documentation/contact_form_page.png)
+    ![Footer](documentation/footer.png)
 
-
----
-+ ### Response page
-
-    - Response page appears after submitting the contact form.
-    - It contains the thank you message and the promise to get in touch with the applicant within 24 hours.
-    - It will automatically direct the user to the main page in 10 seconds.
-
-    ![Response page](documentation/response_page.png)
 
 ---
 ## Technologies Used
