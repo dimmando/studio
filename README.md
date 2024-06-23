@@ -38,7 +38,7 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 + ##### Navigation
     - Positioned at the top of the page.
-    - Contains image logo of the Beauty Studio on the left side.
+    - Contains image logo of the Sugar-Wax Beauty Studio on the left side.
     - Contains text logo/name as type of business, Beauty Studio, in the center.
     - Contains navigation links on the right side:
         * HOME - leads to the home page where users can see main information from Sugar-Wax Beauty Studio and quick link in form button "BOOK NOW!" to book an appointment page for frequent users.
@@ -50,17 +50,12 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
     ![NavBar desktop](documentation/navbar_desktop.png)
 
     - The navigation bar is responsive:
-        * On tablets: navigation bar is split into to lines: the first line filled with the logo and the second line filled with links. All elements are centered.
-        ![NavBar Tablets](documentation/navbar_tablets.png)
-
         * On mobile devices: 
-            - navigation bar filled with the logo in the center and a hamburger menu implemented on the left side of the navigation bar.      
+            - navigation bar filled with the logo at the left, text logo/name in the center and a hamburger menu implemented on the right side of the navigation bar.      
             ![NavBar Mobile Closed](documentation/navbar_mobile_closed.png)
         
             - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
             ![NavBar Mobile Open](documentation/navbar_mobile_open.png)
-
-
 
 ---
 
