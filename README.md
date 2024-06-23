@@ -152,20 +152,12 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 - [Response Page. Mobile Screen](documentation/mobile_response_page.png)
 
 
-#### Tablets/
+#### Tablets/Desktop
 
-- [Home Page. Tablet Screen](documentation/tablet_home_page.png)
-- [Gallery Page. Tablet Screen](documentation/tablet_gallery_page.png)
-- [Contact Page. Tablet Screen](documentation/tablet_contact_form_page.png)
-- [Response Page. Tablet Screen](documentation/tablet_response_page.png)
-
-#### Desktop
-
-- [Home Page. Desktop Screen](documentation/desktop_home_page.png)
-- [Gallery Page. Desktop Screen](documentation/desktop_gallery_page.png)
-- [Contact Page. Desktop Screen](documentation/desktop_contact_form_page.png)
-- [Response Page. Desktop Screen](documentation/desktop_response_page.png)
-
+- [Home Page. Tablet/Desktop Screen](documentation/tablet_home_page.png)
+- [Gallery Page. Tablet/Desktop Screen](documentation/tablet_gallery_page.png)
+- [Contact Page. Tablet/Desktop Screen](documentation/tablet_contact_form_page.png)
+- [Response Page. Tablet/Desktop Screen](documentation/tablet_response_page.png)
 
 ---
 
@@ -192,9 +184,9 @@ The live link can be found [here](https://dimmando.github.io/studio/)
 In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
-- `git clone https://github.com/IuliiaKonovalova/animal_shelter.git`
+- `git clone https://github.com/dimmando/studio.git`
 
-- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/IuliiaKonovalova/animal_shelter), which will start the Gitpod workspace for you.
+- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/dimmando/studio), which will start the Gitpod workspace for you.
 
 ---
 
