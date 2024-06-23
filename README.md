@@ -117,8 +117,17 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 ---
 ## Technologies Used
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+
+## Frameworks, Libraries & Programes Used
+- [Google fonts](https://fonts.google.com) - Google fonts were used to import the 'Dosis' font into the style.css file which is used on all pages throughout the project
+
+- [Font Awesome](https://fontawesome.com) - Font Awesome was used on all footer of the pages throughout the website to add icons for aesthetic and UX purposes.
+
+- [Git](https://gitpod.io) - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+- [GitHub](https://github.com) - GitHub is used to store the projects code after being pushed from Git.
 
 ---
 ## Design
@@ -172,11 +181,11 @@ Please refer to the [TESTING.md](TESTING.md) file for all test-related documenta
 ### Deployment to GitHub Pages
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the [GitHub repository](https://github.com/IuliiaKonovalova/animal_shelter), navigate to the Settings tab 
+  - In the [GitHub repository](https://github.com/dimmando/studio), navigate to the Settings tab 
   - From the source section drop-down menu, select the **Main** Branch, then click "Save".
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://iuliiakonovalova.github.io/animal_shelter)
+The live link can be found [here](https://dimmando.github.io/studio/)
 
 ### Local Deployment
 
@@ -189,7 +198,7 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ---
 
-## Future improvements
+## Future features
 - add custom 404 page;
 
 ---
