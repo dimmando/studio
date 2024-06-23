@@ -38,7 +38,8 @@ The site can be accessed by this [link](https://dimmando.github.io/studio/)
 
 + ##### Navigation
     - Positioned at the top of the page.
-    - Contains logo of the company on the left side.
+    - Contains image logo of the Beauty Studio on the left side.
+    - Contains text logo/name as type of business, Beauty Studio, in the center.
     - Contains navigation links on the right side:
         * HOME - leads to the home page where users can learn about the company Sugar-Wax Beauty Studio.
         * GALLERY - leads to the gallery page where users can see available animals in the Sugar-Wax Beauty Studio.
