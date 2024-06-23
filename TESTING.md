@@ -83,15 +83,15 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![Home Page HTML Validator](documentation/w3_validator_home_page.png)
     
-  #### Gallery Page
-    - No errors or warnings were found when passing through the official W3C validator.
+  #### Our Studio/Gallery Page
+    - Only 1 warning was found when passing through the official W3C validator.
 
     ![Gallery Page HTML Validator](documentation/w3_validator_gallery_page.png)
 
-  #### Contact Page
+  #### Booking Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Contact Page HTML Validator](documentation/w3_validator_contact_page.png)
+    ![Booking Page HTML Validator](documentation/w3_validator_contact_page.png)
 
   #### Response Page
     - No errors or warnings were found when passing through the official W3C validator.
