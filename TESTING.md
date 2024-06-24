@@ -36,7 +36,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Contact Page:
 
-    ![Contact Page](documentation/responsiveness_booking_page.png)
+    ![Booking Page](documentation/responsiveness_booking_page.png)
 
     - Response Page:
 
