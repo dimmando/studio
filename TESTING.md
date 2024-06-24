@@ -34,7 +34,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![Gallery Page](documentation/responsiveness_gallery_page.png)
 
-    - Contact Page:
+    - Booking Page:
 
     ![Booking Page](documentation/responsiveness_booking_page.png)
 
