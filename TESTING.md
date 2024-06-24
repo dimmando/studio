@@ -5,19 +5,19 @@
 
 In order to confirm the correct functionality, responsiveness, and appearance:
 
-+ The website was tested on the following browsers: Chrome, Firefox, Brave.
++ The website was tested on the following browsers: Chrome, Firefox, Edge.
 
     - Chrome:
 
-    ![Chrome](documentation/browsers_google.gif)
+    ![Chrome](documentation/chrome.png)
 
     - FireFox:
 
-    ![FireFox](documentation/browsers_firefox.gif)
+    ![FireFox](documentation/firefox.png)
 
-    - Brave:
+    - Edge:
 
-    ![Brave](documentation/browsers_brave.gif)
+    ![Brave](documentation/edge.png)
 
 ## Responsiveness
 
