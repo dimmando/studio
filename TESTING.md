@@ -95,7 +95,16 @@ In order to confirm the correct functionality, responsiveness, and appearance:
   ![Response Page Lighthouse](documentation/lighthouse_response_page.png)
 
 ---
-​
+
+## Testing user stories
+Test all your user stories, you an create table 
+User Story |  Test | Pass
+--- | --- | :---:
+I want to understand the main purpose of the site | I can read text Beauty Studio and services provided just in the center of the screen. | &check;​
+I want to be able easily navigate through the website | I can either scroll down and see at once an information related to services or choose required menu item and go to page interested for me | &check;​
+I want to see the prices to compare it with the other competitors | Prices we can see at once under the list of the services | &check;
+
+
 ## Bugs
 + ### Solved bugs
     1. Pictures at Our Studio page/kind of gallery didn't want to align at the center of the page.
